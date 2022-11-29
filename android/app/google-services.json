@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433861035896",
+    "project_id": "calendar-job-42f88",
+    "storage_bucket": "calendar-job-42f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433861035896:android:d644fa5bc7160caf396a8d",
+        "android_client_info": {
+          "package_name": "com.calendar.wafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433861035896-3ju4pa1jqd8ctrlgnq22pkmvaccr0jaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0cczLidpqE1hldO8RxHNqMadKRceHVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433861035896-3ju4pa1jqd8ctrlgnq22pkmvaccr0jaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

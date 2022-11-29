@@ -1,0 +1,6 @@
+module Pods_CalendarJob_CalendarJobTests {
+  umbrella header "Pods-CalendarJob-CalendarJobTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

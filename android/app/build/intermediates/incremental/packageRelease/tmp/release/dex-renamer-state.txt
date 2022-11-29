@@ -1,0 +1,7 @@
+#Fri Sep 30 12:01:38 IST 2022
+base.1=/Users/dreamworld/Desktop/DHARMESH/ReactNative/wafire/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/dreamworld/Desktop/DHARMESH/ReactNative/wafire/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
